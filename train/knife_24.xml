@@ -1,0 +1,26 @@
+<annotation>
+	<folder>knifes</folder>
+	<filename>knife_24.jpg</filename>
+	<path>C:\tensorflowupdate\dataset\knifes\knife_24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8200</width>
+		<height>5467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3620</xmin>
+			<ymin>808</ymin>
+			<xmax>7728</xmax>
+			<ymax>3466</ymax>
+		</bndbox>
+	</object>
+</annotation>
