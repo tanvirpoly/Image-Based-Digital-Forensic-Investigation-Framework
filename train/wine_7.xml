@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wines</folder>
+	<filename>wine_7.jpg</filename>
+	<path>C:\tensorflowupdate\dataset\wines\wine_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5616</width>
+		<height>3744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>646</xmin>
+			<ymin>95</ymin>
+			<xmax>1499</xmax>
+			<ymax>3571</ymax>
+		</bndbox>
+	</object>
+</annotation>
