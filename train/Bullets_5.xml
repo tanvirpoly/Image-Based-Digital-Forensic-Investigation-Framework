@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bullets</folder>
+	<filename>Bullets_5.jpg</filename>
+	<path>C:\tensorflowupdate\dataset\bullets\Bullets_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6240</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bullet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>1113</ymin>
+			<xmax>5890</xmax>
+			<ymax>3040</ymax>
+		</bndbox>
+	</object>
+</annotation>
