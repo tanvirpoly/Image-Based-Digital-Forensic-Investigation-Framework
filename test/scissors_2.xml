@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scissors</folder>
+	<filename>scissors_2.jpg</filename>
+	<path>C:\tensorflowupdate\dataset\scissors\scissors_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7952</width>
+		<height>5304</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>746</xmin>
+			<ymin>3051</ymin>
+			<xmax>3555</xmax>
+			<ymax>5304</ymax>
+		</bndbox>
+	</object>
+</annotation>
