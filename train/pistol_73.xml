@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pistols</folder>
+	<filename>pistol_73.jpg</filename>
+	<path>C:\tensorflowupdate\dataset\pistols\pistol_73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5856</width>
+		<height>3904</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>681</xmin>
+			<ymin>1</ymin>
+			<xmax>4837</xmax>
+			<ymax>1043</ymax>
+		</bndbox>
+	</object>
+</annotation>
