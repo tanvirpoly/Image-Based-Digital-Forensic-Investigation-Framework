@@ -283,6 +283,11 @@ Check how the model is trained with the help of tensorboard (run below command i
 
 
 
+.. image:: image/tranning.png
+
+.. image:: image/loss.png
+
+
 
 
 
