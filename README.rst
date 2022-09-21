@@ -133,7 +133,8 @@ Dataset Preparation and Annotation
 
 Download the free image for the dataset you can try for learning purposes.
 
-      :source: https://www.kaggle.com
+       :source: www.kaggle.com
+       :source: www.google.com
 
 
 
