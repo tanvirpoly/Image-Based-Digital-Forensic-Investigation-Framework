@@ -179,7 +179,12 @@ Now apply this command
       Python xml_to_csv.py
 
 
+Using the above command twice by changing the folder name will result in the below two files.
 
+.. code:: shell  
+
+     >> test.csv
+     >>train.csv
 
 
 
