@@ -303,9 +303,20 @@ If tensorboard error occurred, then the following command should be used.
       pip install tb-nightly
 
 
+Download the web server code from Google to detect the object with the web browser.
+
+Now use the following commands:
+
+.. code:: shell 
+
+      Set flask_env=development
+      Flask run
 
 
 
+.. image:: image/paper_objectDetection.jpg
+
+.. image:: image/2paper_object-detection.jpg
 
 
 
