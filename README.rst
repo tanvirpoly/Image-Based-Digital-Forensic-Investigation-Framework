@@ -287,6 +287,10 @@ Check how the model is trained with the help of tensorboard (run below command i
 
 .. image:: image/loss.png
 
+.. image:: image/localization.png
+
+.. image:: image/target.png
+
 
 
 
