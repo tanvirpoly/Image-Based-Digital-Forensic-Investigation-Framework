@@ -243,11 +243,31 @@ Navigate to the ./object_detection/legacy folder
 6) Copy the downloaded SSD model file (120MB) and paste it into legacy.
 
 
+.. code:: shell 
+
+      set PYTHONPATH=C:\folder\models\research\slim;C:\tensorflow\models\research
+
+Run the below commands to start training (I will suggest copying first in notepad and then pasting to anaconda prompt)
 
 
+.. code:: shell 
+
+      python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/ssd_mobilenet_v1_coco.config
 
 
+Generate Model Graph and Deployment
+------------------
 
+
+Copy export_inference_graph.py from the object detection folder and paste it into legacy dir.
+Use the below command by editing “model name” and “your_step_number.”
+
+.. code:: shell 
+
+      python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/ssd_mobilenet_v1_coco.config--trained_checkpoint_prefix training/model.ckpt-your_number --output_directory model_name
+
+
+Check how the model is trained with the help of tensorboard (run below command in legacy folder)
 
 
 
