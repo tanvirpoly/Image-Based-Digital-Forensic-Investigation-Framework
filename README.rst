@@ -339,6 +339,18 @@ Now use the following commands:
 
 
 
+Image Enhancement
+------------------
+
+
+.. image:: image/ImageEnhance.jpg
+
+
+
+
+
+
+
 
 Contact me:
 ------------------
