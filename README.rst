@@ -88,6 +88,22 @@ Python (3.7.0) (no error should populate after installation)
      >>
 
 
+Tensorflow Framework installation process
+------------------
+
+a. Create a folder at the local disk directory.
+
+b. Copy and paste folder “models” and “protos” downloaded from online.
+
+c. Activate your conda env
+
+d. Conda activate tfgpu
+
+
+
+
+
+
 
 
 
