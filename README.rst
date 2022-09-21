@@ -25,7 +25,7 @@ GPU means: You only have an NVIDIA graphic card along with the system’s proces
 ^^^^^^^
 
 .. image:: img/NVIDIA.png
-    :width: 
+   
     :align: center
 
 
