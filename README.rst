@@ -67,7 +67,14 @@ What is the CUDA toolkit?
 
 CUDA® is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, developers can dramatically speed up computing applications by harnessing the power of GPUs.
 
+.. code:: shell
 
+     conda create -n tfgpu
+     conda activate tfgpu
+     conda install python=3.7.0
+     pip install Cython contextlib2 pillow lxml jupyter matplotlib pandas
+     opencv-python numpy==1.16.1 flask werkzeug==0.16.0
+     pip install tensorflow-gpu==1.13.1
 
 
 
