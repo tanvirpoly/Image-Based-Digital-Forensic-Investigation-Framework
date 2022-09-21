@@ -100,6 +100,12 @@ Tensorflow Framework installation process
 4. Conda activate tfgpu
 
 
+.. image:: img/tensorflow_active.png
+   
+
+
+
+
 Navigate to the CD C:/folder/Models/Research>>
 
 (Type the below commands one by one and hit ENTER)
