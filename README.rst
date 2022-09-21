@@ -157,9 +157,9 @@ Use the below commands to install the labeling or annotation tool:
 My labeled dataset is Bullets, Pistol, Knife, Scissors, Wine, Hammer, and Blood.
 
 
-.. image:: image/NVIDIA.png
+.. image:: image/bullet.png
 
-.. image:: image/NVIDIA.png
+.. image:: image/knife.png
 
 
 
