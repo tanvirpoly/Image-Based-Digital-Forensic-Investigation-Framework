@@ -24,7 +24,7 @@ by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO for
 .. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo.jpg
      :alt: Demo Image
 
-`Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
+.. `Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
 
 Installation
 ------------------
