@@ -13,6 +13,18 @@ Green University of Bangladesh -Final Year Thesis
 
      
 
+
+Our Proposed Methodology
+------------------
+.. image:: image/Framework.JPG
+
+
+
+
+
+
+
+
 Tensorflow Installation
 ------------------
 
@@ -320,10 +332,11 @@ Now use the following commands:
 
 
 
-<!-- all link is here -->
 
 
-### Contact me:
+
+Contact me:
+------------------
 
 [E-mail](tanvirpoly@gmail.com)
 
