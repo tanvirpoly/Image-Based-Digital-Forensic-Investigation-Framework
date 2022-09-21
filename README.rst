@@ -154,6 +154,8 @@ Use the below commands to install the labeling or annotation tool:
 
 3. Decide classifier and perform annotation.
 
+My labeled dataset is Bullets, Pistol, Knife, Scissors, Wine, Hammer, and Blood.
+
 
 
 
