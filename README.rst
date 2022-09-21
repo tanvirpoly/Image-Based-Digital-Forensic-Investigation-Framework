@@ -58,8 +58,12 @@ Python (3.7.0) (no error should populate after installation)
 
 
 
+Tensorflow GPU installation process
+------------------
 
-
+Download CUDA toolkit 9 or 10   
+What is the CUDA toolkit?   
+CUDA® is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, developers can dramatically speed up computing applications by harnessing the power of GPUs.
 
 
 
