@@ -5,11 +5,11 @@ Image-Based Digital Forensic Investigation Framework
 ========
 
 Final Year Thesis
-=
+------------------
 
 Green University of Bangladesh
 
-.. image:: done.png
+.. image:: gub_logo.png
      
 
 
