@@ -343,6 +343,12 @@ Now use the following commands:
 Contact me:
 ------------------
 
+
+Open cmd and go to the `E-mail <tanvirpoly@gmail.com>`__ directory
+
+
+
+
 [E-mail](tanvirpoly@gmail.com)
 
 [Facebook]( https://www.facebook.com/tanvirfbid)
