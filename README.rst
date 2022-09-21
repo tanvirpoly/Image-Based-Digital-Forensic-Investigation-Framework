@@ -19,6 +19,11 @@ Our Proposed Methodology
 .. image:: image/Framework.JPG
 
 
+Image Processing
+------------------
+.. image:: image/Content_Framework.JPG
+
+
 
 
 
