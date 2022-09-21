@@ -156,6 +156,13 @@ Use the below commands to install the labeling or annotation tool:
 
 My labeled dataset is Bullets, Pistol, Knife, Scissors, Wine, Hammer, and Blood.
 
+Convert labelled dataset into TF-record
+
+
+Now it turns to distribute your labelled dataset into two folder
+1) Folder “train” should consist of 90% of the entire dataset.
+2) Folder “test” should consist of 10% of the entire dataset.
+
 
 
 
