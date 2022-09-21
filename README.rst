@@ -166,7 +166,17 @@ Now it turns to distribute your labelled dataset into two folder
 2) Folder “test” should consist of 10% of the entire dataset.
 
 
+Now apply this command
 
+.. code:: shell 
+
+      set PYTHONPATH=C:\tensorflow\models\research\slim;C:\tensorflow\models\research
+
+1. XML formate convert to CSV formate
+
+.. code:: shell 
+
+      Python xml_to_csv.py
 
 
 
