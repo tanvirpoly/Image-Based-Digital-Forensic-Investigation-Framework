@@ -7,7 +7,7 @@ Image-Based Digital Forensic Investigation Framework
 Green University of Bangladesh -Final Year Thesis
 ------------------
 
-.. image:: gub_logo.png
+.. image:: img/gub_logo.png
     :width: 150px
     :align: center
 
@@ -24,7 +24,9 @@ CPU means: You only have a processor in your system. E.g. Intel processor.
 GPU means: You only have an NVIDIA graphic card along with the system’s processor.
 ^^^^^^^
 
-
+.. image:: img/NVIDIA.png
+    :width: 150px
+    :align: center
 
 
 
