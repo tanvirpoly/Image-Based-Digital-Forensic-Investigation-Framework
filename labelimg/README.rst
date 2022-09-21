@@ -21,7 +21,7 @@ by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO for
 .. image:: pistol.png
      :alt: Demo Image
 
-.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo.jpg
+.. image:: bullet.png
      :alt: Demo Image
 
 .. `Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
