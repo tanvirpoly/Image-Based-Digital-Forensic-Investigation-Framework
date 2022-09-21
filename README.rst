@@ -157,7 +157,7 @@ Use the below commands to install the labeling or annotation tool:
 My labeled dataset is Bullets, Pistol, Knife, Scissors, Wine, Hammer, and Blood.
 
 Convert labelled dataset into TF-record
-
+------------------
 
 Now it turns to distribute your labelled dataset into two folder
 
@@ -218,8 +218,8 @@ For Train.record
 
 
 
-
-
+Now Train the model
+------------------
 
 
 
