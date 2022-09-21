@@ -42,7 +42,8 @@ Tensorflow CPU installation process
    conda install python=3.7.0
    pip install Cython contextlib2 pillow lxml jupyter matplotlib pandas
    opencv-python numpy==1.16.1 flask werkzeug==0.16.0
-   pip install tensorflow==1.13.1
+   pip install tensorflow==1.13.1  
+
 
 
 
@@ -52,6 +53,7 @@ Tensorflow CPU installation process
 
 
 .. code:: shell
+
    >>import tensorflow as tf
    >>
 
