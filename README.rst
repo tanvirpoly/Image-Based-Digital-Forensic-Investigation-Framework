@@ -26,7 +26,7 @@ GPU means: You only have an NVIDIA graphic card along with the system’s proces
 
 .. image:: img/NVIDIA.png
    
-    :align: center
+
 
 
 If you don’t have the above option “NVIDIA Control Panel” upon right-clicking on the desktop, you only have to follow 
