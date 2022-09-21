@@ -293,8 +293,12 @@ Check how the model is trained with the help of tensorboard (run below command i
 
 
 
+If tensorboard error occurred, then the following command should be used.
 
 
+.. code:: shell 
+
+      pip install tb-nightly
 
 
 
