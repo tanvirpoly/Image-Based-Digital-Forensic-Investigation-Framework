@@ -7,7 +7,7 @@ Image-Based Digital Forensic Investigation Framework
 Green University of Bangladesh -Final Year Thesis
 ------------------
 
-.. image:: img/gub_logo.png
+.. image:: image/gub_logo.png
     :width: 150px
     :align: center
 
@@ -24,7 +24,7 @@ CPU means: You only have a processor in your system. E.g. Intel processor.
 GPU means: You only have an NVIDIA graphic card along with the system’s processor.
 ^^^^^^^
 
-.. image:: img/NVIDIA.png
+.. image:: image/NVIDIA.png
    
 
 
@@ -100,7 +100,7 @@ Tensorflow Framework installation process
 4. Conda activate tfgpu
 
 
-.. image:: img/tensorflow_active.png
+.. image:: image/tensorflow_active.png
    
 
 
@@ -121,7 +121,7 @@ Navigate to the CD C:/folder/Models/Research>>
       Set PYTHONPATH=C:\folder\models\research\slim;C:\tensorflow\models\research
 
 
-.. image:: img/research_navigation.png
+.. image:: image/research_navigation.png
 
 
 Dataset Preparation and Annotation
