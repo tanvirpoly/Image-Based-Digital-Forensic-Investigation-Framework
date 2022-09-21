@@ -136,6 +136,18 @@ Download the free image for the dataset you can try for learning purposes.
        :source: www.kaggle.com
        :source: www.google.com
 
+Image annotation toolkit installation
+^^^^^^^
+Use the below commands to install the labeling or annotation tool:
+^^^^^^^
+
+
+
+
+
+
+
+
 
 
 
