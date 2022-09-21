@@ -100,11 +100,19 @@ Tensorflow Framework installation process
 4. Conda activate tfgpu
 
 
+Navigate to the CD C:/folder/Models/Research>>
+
+(Type the below commands one by one and hit ENTER)
 
 
+.. code:: shell 
+      
+      "C:\folder\protoc\bin\protoc.exe" object_detection/protos/*.proto --python_out=.python setup.py install
 
 
-
+.. code:: shell 
+     
+      Set PYTHONPATH=C:\tensorflow\models\research\slim;C:\tensorflow\models\research
 
 
 
