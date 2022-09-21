@@ -112,7 +112,19 @@ Navigate to the CD C:/folder/Models/Research>>
 
 .. code:: shell 
      
-      Set PYTHONPATH=C:\tensorflow\models\research\slim;C:\tensorflow\models\research
+      Set PYTHONPATH=C:\folder\models\research\slim;C:\tensorflow\models\research
+
+
+Dataset Preparation and Annotation
+------------------
+
+1. Prepare the dataset – before feeding it into the machine learning model.
+2. Dataset: the combination of a different form of the same data.
+
+
+
+
+
 
 
 
