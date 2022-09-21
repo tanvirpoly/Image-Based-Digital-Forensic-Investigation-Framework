@@ -271,7 +271,13 @@ Use the below command by editing “model name” and “your_step_number.”
 
 .. code:: shell 
 
-      python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/ssd_mobilenet_v1_coco.config--trained_checkpoint_prefix training/model.ckpt-your_number --output_directory model_name
+      python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/ssd_mobilenet_v1_coco.config--trained_checkpoint_prefix training/model.ckpt-your_step_number --output_directory model_name
+
+
+
+.. image:: image/step1.png
+
+.. image:: image/cpu_performance.png
 
 
 Check how the model is trained with the help of tensorboard (run below command in legacy folder)
@@ -284,10 +290,6 @@ Check how the model is trained with the help of tensorboard (run below command i
 
 
 .. image:: image/tranning.png
-
-.. image:: image/loss.png
-
-.. image:: image/localization.png
 
 .. image:: image/target.png
 
