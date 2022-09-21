@@ -227,6 +227,21 @@ Now Train the model
 
 3. Download SSD Config File
 
+Navigate to the ./object_detection/legacy folder
+
+
+1) Create “data” folder -> paste train.record and test.record in it
+
+2) Create a training folder.
+
+3) Edit labelmap.pbtxt with your classifier name (e.g. Bullets, Pistol, Knife, Scissors, Wine, Hammer, and Blood. etc.) and copy-paste labelmap.pbtxt to the “data” and “training” folder
+
+4) Paste the SSD config file into the training folder
+
+5) Edit SSD config file with batch size, training step, etc
+
+6) Copy the downloaded SSD model file (120MB) and paste it into legacy.
+
 
 
 
