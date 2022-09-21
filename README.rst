@@ -25,8 +25,12 @@ GPU means: You only have an NVIDIA graphic card along with the system’s proces
 ^^^^^^^
 
 .. image:: img/NVIDIA.png
-    :width: 150px
+    :width: 
     :align: center
+
+
+If you don’t have the above option “NVIDIA Control Panel” upon right-clicking on the desktop, you only have to follow 
+(a) Tensorflow CPU Installation, whereas if you have the above option, go with (b) Tensorflow GPU installation
 
 
 
