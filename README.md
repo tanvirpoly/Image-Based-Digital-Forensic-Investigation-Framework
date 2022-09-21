@@ -6,9 +6,11 @@ Image-Based Digital Forensic Investigation Framework
 
 Final Year Thesis
 --
-Green University of Bangladesh 
- image:: https://img.shields.io/pypi/v/labelimg.svg
+.. image:: https://img.shields.io/pypi/v/labelimg.svg
         :target: https://pypi.python.org/pypi/labelimg
+
+.. image:: https://img.shields.io/travis/tzutalin/labelImg.svg
+        :target: https://travis-ci.org/tzutalin/labelImg
 
 
 ```python
