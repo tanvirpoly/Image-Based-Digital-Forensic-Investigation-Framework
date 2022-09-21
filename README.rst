@@ -163,21 +163,6 @@ My labeled dataset is Bullets, Pistol, Knife, Scissors, Wine, Hammer, and Blood.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Convert labelled dataset into TF-record
 ------------------
 
@@ -295,6 +280,15 @@ Check how the model is trained with the help of tensorboard (run below command i
 .. code:: shell 
 
       tensorboard --logdir ./ --host=127.0.0.1
+
+
+
+
+
+
+
+
+
 
 
 
