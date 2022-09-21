@@ -13,7 +13,13 @@ Green University of Bangladesh -Final Year Thesis
 
      
 
+Tensorflow Installation
+------------------
 
+
+Learners must go with any one of the following Tensorflow CPU or GPU installations.
+CPU means: You only have a processor in your system. E.g. Intel processor.
+GPU means: You only have an NVIDIA graphic card along with the system’s processor.
 
 
 
