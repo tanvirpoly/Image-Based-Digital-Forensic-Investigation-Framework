@@ -121,6 +121,9 @@ Navigate to the CD C:/folder/Models/Research>>
       Set PYTHONPATH=C:\folder\models\research\slim;C:\tensorflow\models\research
 
 
+ .. image:: img/research_navigation.png
+
+
 Dataset Preparation and Annotation
 ------------------
 
