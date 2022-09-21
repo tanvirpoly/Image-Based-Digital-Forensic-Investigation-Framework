@@ -142,9 +142,17 @@ Use the below commands to install the labeling or annotation tool:
 ^^^^^^^
 
 
+.. code:: shell 
 
+     pip install PyQt5
+     pyrcc5 -o libs/resources.py resources.qrc
+     python labelImg.py
 
+1. Install the Image labeling tool.
 
+2. Prepare the image dataset.
+
+3. Decide classifier and perform annotation.
 
 
 
