@@ -45,6 +45,7 @@ Tensorflow CPU installation process
    pip install tensorflow==1.13.1
 
 
+
    Check whether TensorFlow is appropriately installed or not.  
 
    Python (3.7.0) (no error should populate after installation)
