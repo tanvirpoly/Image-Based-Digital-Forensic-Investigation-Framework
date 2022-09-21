@@ -8,7 +8,7 @@ Green University of Bangladesh -Final Year Thesis
 ------------------
 
 .. image:: gub_logo.png
-    :width: 200px
+    :width: 150px
     :align: center
 
      
