@@ -170,9 +170,9 @@ Now apply this command
 
 .. code:: shell 
 
-      set PYTHONPATH=C:\tensorflow\models\research\slim;C:\tensorflow\models\research
+      set PYTHONPATH=C:\folder\models\research\slim;C:\tensorflow\models\research
 
-1. XML formate convert to CSV formate
+1. XML format convert to CSV format
 
 .. code:: shell 
 
@@ -184,7 +184,49 @@ Using the above command twice by changing the folder name will result in the bel
 .. code:: shell  
 
      >> test.csv
-     >>train.csv
+     >> train.csv
+
+CSV format convert to TF-RECORD format
+
+
+1) Move test and train folder to the folder/models/research/object_detection
+2) Also, move the generate_ftrecord.py file to the same folder
+3) Mention your classifier name (line 39,41)
+4) Bullets, Pistol, Knife, Scissors, Wine, Hammer, and Blood.
+5) Navigate folder/models/research/object_detection
+6) Generate test.record and train.record
+
+
+.. code:: shell 
+
+      set PYTHONPATH=C:\folder\models\research\slim;C:\tensorflow\models\research
+
+
+For Test.record
+^^^^^^^
+
+.. code:: shell 
+
+     python generate_tfrecord.py --csv_input=C:/folder/models/research/object_detection/test/test_labels.csv --output_path=C:/folder/models/research/object_detection/test/test.record
+
+For Train.record
+^^^^^^^
+
+.. code:: shell    
+
+      python generate_tfrecord.py --csv_input=C:/folder/models/research/object_detection/train/train_labels.csv --output_path=C:/folder/models/research/object_detection/train/train.record
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
