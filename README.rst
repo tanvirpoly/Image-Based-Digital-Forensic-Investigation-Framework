@@ -344,8 +344,8 @@ Contact me:
 ------------------
 
 
-`E-mail <tanvirpoly@gmail.com>`
+ `E-mail <tanvirpoly@gmail.com>`__
 
-`Facebook <https://www.facebook.com/tanvirfbid>`
+ `Facebook <https://www.facebook.com/tanvirfbid>`__
 
-`Linkedin <https://www.linkedin.com/in/tanvirx/>`
+ `Linkedin <https://www.linkedin.com/in/tanvirx/>`__
