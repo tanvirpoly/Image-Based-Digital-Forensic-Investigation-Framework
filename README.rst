@@ -344,13 +344,8 @@ Contact me:
 ------------------
 
 
-Open cmd and go to the `E-mail <tanvirpoly@gmail.com>`__ directory
+`E-mail <tanvirpoly@gmail.com>`
 
+`Facebook <https://www.facebook.com/tanvirfbid>`
 
-
-
-[E-mail](tanvirpoly@gmail.com)
-
-[Facebook]( https://www.facebook.com/tanvirfbid)
-
-[Linkedin]( https://www.linkedin.com/in/tanvirx/)
+`Linkedin <https://www.linkedin.com/in/tanvirx/>`
