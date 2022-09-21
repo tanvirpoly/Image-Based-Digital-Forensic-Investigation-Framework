@@ -28,10 +28,21 @@ GPU means: You only have an NVIDIA graphic card along with the system’s proces
    
 
 
-
 If you don’t have the above option “NVIDIA Control Panel” upon right-clicking on the desktop, you only have to follow 
 (a) Tensorflow CPU Installation, whereas if you have the above option, go with (b) Tensorflow GPU installation
 
+
+Tensorflow CPU installation
+------------------
+
+.. code:: shell
+
+   conda create -n tfcpu
+   conda activate tf
+   conda install python=3.7.0
+   pip install Cython contextlib2 pillow lxml jupyter matplotlib pandas
+   opencv-python numpy==1.16.1 flask werkzeug==0.16.0
+   pip install tensorflow==1.13.1
 
 
 <!-- all link is here -->
