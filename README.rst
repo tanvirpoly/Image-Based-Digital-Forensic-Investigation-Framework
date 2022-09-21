@@ -156,6 +156,28 @@ Use the below commands to install the labeling or annotation tool:
 
 My labeled dataset is Bullets, Pistol, Knife, Scissors, Wine, Hammer, and Blood.
 
+
+.. image:: image/NVIDIA.png
+
+.. image:: image/NVIDIA.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Convert labelled dataset into TF-record
 ------------------
 
@@ -268,6 +290,11 @@ Use the below command by editing “model name” and “your_step_number.”
 
 
 Check how the model is trained with the help of tensorboard (run below command in legacy folder)
+
+
+.. code:: shell 
+
+      tensorboard --logdir ./ --host=127.0.0.1
 
 
 
