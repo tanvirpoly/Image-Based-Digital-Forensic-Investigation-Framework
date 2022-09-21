@@ -39,17 +39,7 @@ Linux/Ubuntu/Mac requires at least `Python
 3 or above <https://www.python.org/getit/>`__ and  `PyQt5 <https://pypi.org/project/PyQt5/>`__ are strongly recommended.
 
 
-.. Ubuntu Linux
-.. ^^^^^^^^^^^^
-.. Python 2 + Qt4
 
-.. .. code:: shell
-
-..     sudo apt-get install pyqt4-dev-tools
-..     sudo pip install lxml
-..     make qt4py2
-..     python labelImg.py
-..     python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
 Python 3 + Qt5 (Recommended)
 
@@ -61,17 +51,7 @@ Python 3 + Qt5 (Recommended)
     python3 labelImg.py
     python3 labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
-.. macOS
-.. ^^^^^
-.. Python 2 + Qt4
 
-.. .. code:: shell
-
-..     brew install qt qt4
-..     brew install libxml2
-..     make qt4py2
-..     python labelImg.py
-..     python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
 Python 3 + Qt5 (Recommended)
 
