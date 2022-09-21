@@ -131,7 +131,9 @@ Dataset Preparation and Annotation
 2. Dataset: the combination of a different form of the same data.
 
 
+Download the free image for the dataset you can try for learning purposes.
 
+      :target: https://www.kaggle.com
 
 
 
