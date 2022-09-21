@@ -77,6 +77,24 @@ CUDA® is a parallel computing platform and programming model developed by NVIDI
      pip install tensorflow-gpu==1.13.1
 
 
+Check whether TensorFlow is appropriately installed or not.  
+
+Python (3.7.0) (no error should populate after installation)  
+
+
+.. code:: shell
+
+     >>import tensorflow as tf
+     >>
+
+
+
+
+
+
+
+
+
 
 <!-- all link is here -->
 
