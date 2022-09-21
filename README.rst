@@ -221,6 +221,12 @@ For Train.record
 Now Train the model
 ------------------
 
+1. Download the SSD model file
+
+2. Download Labelmap.pbtxt
+
+3. Download SSD Config File
+
 
 
 
