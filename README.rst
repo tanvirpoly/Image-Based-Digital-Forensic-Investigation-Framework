@@ -16,12 +16,12 @@ Green University of Bangladesh -Final Year Thesis
 
 Our Proposed Methodology
 ------------------
-.. image:: image/Framework.JPG
+.. image:: image/our_framework.JPG
 
 
 Image Processing
 ------------------
-.. image:: image/Content_Framework.JPG
+.. image:: image/our_Content_Framework.JPG
 
 
 
@@ -41,7 +41,7 @@ CPU means: You only have a processor in your system. E.g. Intel processor.
 GPU means: You only have an NVIDIA graphic card along with the system’s processor.
 ^^^^^^^
 
-.. image:: image/NVIDIA.png
+.. image:: image/NVIDIA1.png
    
 
 
@@ -331,7 +331,7 @@ Now use the following commands:
 
 
 
-.. image:: image/1paper_objectDetection.jpg
+.. image:: image/1objectDetection.jpg
 
 .. image:: image/2object-detection.jpg
 
@@ -343,7 +343,7 @@ Image Enhancement
 ------------------
 
 
-.. image:: image/ImageEnhance.jpg
+.. image:: image/our_image_enhance.jpg
 
 
 
