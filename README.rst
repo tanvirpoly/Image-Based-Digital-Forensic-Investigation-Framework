@@ -331,9 +331,9 @@ Now use the following commands:
 
 
 
-.. image:: image/paper_objectDetection.jpg
+.. image:: image/1paper_objectDetection.jpg
 
-.. image:: image/2paper_object-detection.jpg
+.. image:: image/2object-detection.jpg
 
 
 
