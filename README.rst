@@ -8,13 +8,7 @@ Image-Based Digital Forensic Investigation Framework
 :Supervised By: Md. Jahidul Islam
 :Designation: Assistant Professor
 :Profile: <https://green.edu.bd/faculty-profile/dept-of-cse/md-jahidul-islam/>
-:Presented By: Md. Tanvir Ahmed   - ID: 
-               Razuanul Islam     - ID: 
-               Md. Atickur Rahman - ID: 
-:Description: This is a "docinfo block", or bibliographic field list
-
-.. NOTE:: If you are reading this as HTML, please read
-   `<cheatsheet.txt>`_ instead to see the input syntax examples!
+:Presented By: Md. Tanvir Ahmed, Razuanul Islam, Md. Atickur Rahman
 
 
 
