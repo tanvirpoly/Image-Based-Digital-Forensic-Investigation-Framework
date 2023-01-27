@@ -6,8 +6,8 @@ Image-Based Digital Forensic Investigation Framework
  Department of Computer Science and Engineering
 =====================================================
 :Supervised By: Md. Jahidul Islam
-:Designation: David Goodger <goodger@python.org>
-:Date: $Date: 2013-02-20 01:10:53 +0000 (Wed, 20 Feb 2013) $
+:Designation: Assistant Professor
+:Profile: <https://green.edu.bd/faculty-profile/dept-of-cse/md-jahidul-islam/>
 :Revision: $Revision: 7612 $
 :Description: This is a "docinfo block", or bibliographic field list
 
