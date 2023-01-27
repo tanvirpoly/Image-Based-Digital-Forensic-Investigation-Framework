@@ -3,7 +3,7 @@ Image-Based Digital Forensic Investigation Framework
 ========
 
 =====================================================
- The reStructuredText_ Cheat Sheet: Syntax Reminders
+ Department of Computer Science and Engineering
 =====================================================
 :Info: See <http://docutils.sf.net/rst.html> for introductory docs.
 :Author: David Goodger <goodger@python.org>
@@ -16,7 +16,7 @@ Image-Based Digital Forensic Investigation Framework
 
 
 
-Green University of Bangladesh -Final Year Thesis
+Green University of Bangladesh -Final Year Thesis_
 ------------------
 
 .. image:: image/gub_logo.png
