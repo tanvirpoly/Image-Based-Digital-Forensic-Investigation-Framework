@@ -4,6 +4,9 @@
 Image-Based Digital Forensic Investigation Framework
 ========
 
+
+<h5> Supervised By: </h5>
+
 Green University of Bangladesh -Final Year Thesis
 ------------------
 
