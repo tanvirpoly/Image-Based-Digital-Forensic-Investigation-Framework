@@ -9,11 +9,7 @@ Image-Based Digital Forensic Investigation Framework
 :Designation: Assistant Professor
 :Profile: <https://green.edu.bd/faculty-profile/dept-of-cse/md-jahidul-islam/>
 :Presented By: Md. Tanvir Ahmed, Razuanul Islam, Md. Atickur Rahman
-:Book in PDF: <object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
-    <embed src="loremipsum.pdf#page=2">
-        <p>Click here for Report <a href="Project_Report.pdf"> PDF </a>.</p>
-    </embed>
-</object>
+:Book in PDF: <a href="Image_Based_Digital_Forensic_Investigation_Framework_Book_protected.pdf"> PDF </a>
 
 
 
