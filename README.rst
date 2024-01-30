@@ -10,11 +10,12 @@ Title: An Image-based Digital Forensic Investigation Framework for Crime Analysi
 :Profile: <https://green.edu.bd/faculty-profile/dept-of-cse/md-jahidul-islam/>
 :Authors: Md. Tanvir Ahmed, Razuanul Islam, Atickur Rahman, Jahidul Islam, Anichur Rahman, Sumaiya Kabir
 :IEEE Paper: https://ieeexplore.ieee.org/document/10212439
+:ResearchGate Paper: https://www.researchgate.net/publication/371110758_An_Image-based_Digital_Forensic_Investigation_Framework_for_Crime_Analysis
 :Book in PDF: https://drive.google.com/drive/u/0/folders/1Lrd14dFa8jcT1zdIoSGf5Qx76kkPXh0U
 
 
 
-Green University of Bangladesh -Final Year Thesis_
+Green University of Bangladesh
 ------------------
 
 .. image:: image/gub_logo.png
