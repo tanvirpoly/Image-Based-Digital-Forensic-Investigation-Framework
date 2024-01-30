@@ -1,5 +1,5 @@
 
-Image-Based Digital Forensic Investigation Framework
+Title: An Image-based Digital Forensic Investigation Framework for Crime Analysis
 ========
 
 =====================================================
